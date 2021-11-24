@@ -1,5 +1,12 @@
 You can visit website from [here](https://engineerstabsreact.netlify.app/)
 
+### Installation
+___
+<dl>
+  <dt>clone the project</dt>
+  <dd>git clone https://github.com/ahmetfuatbalci/engineers-tabs-react</dd>
+</dl>
+
 
 ### Usage
 ___
