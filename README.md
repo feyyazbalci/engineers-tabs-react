@@ -3,12 +3,11 @@ You can visit website from [here](https://engineerstabsreact.netlify.app/)
 
 ### Installation
 ___
-<dl>
-  <dt>Clone the project</dt>
+**Clone the project**
 ```
  https://github.com/ahmetfuatbalci/engineers-tabs-react
 ```
-</dl>
+
 
 ### Usage
 ___
