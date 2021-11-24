@@ -1,9 +1,11 @@
 You can visit website from [here](https://engineerstabsreact.netlify.app/)
 
 
-###Usage
+### Usage
 <br/>
-Visual code terminal write this code
+**Visual code terminal write this code**
+<br/>
 > npm install
-Then open the console and run the following command.
+<br/>
+**Then open the console and run the following command.**
 > npm start
