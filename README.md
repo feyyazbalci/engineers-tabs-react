@@ -19,3 +19,8 @@ ___
   <dt>Then open the console and run the following command</dt>
   <dd>npm start</dd>
 </dl>
+
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
