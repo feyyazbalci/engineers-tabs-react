@@ -5,7 +5,7 @@ You can visit website from [here](https://engineerstabsreact.netlify.app/)
 ___
 **Clone the project**
 ```
- https://github.com/ahmetfuatbalci/engineers-tabs-react
+ https://github.com/feyyazbalci/engineers-tabs-react
 ```
 
 
